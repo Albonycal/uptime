@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Mirror
-    url: https://mirror.albony.xyz
+    url: https://mirror.albony.xyz/
 
 
 status-website:
