@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.albony.xyz.ico",
     "slug": "mirror",
     "status": "down",
-    "uptime": "97.84%",
-    "uptimeDay": "80.45%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "97.84%",
+    "uptime": "97.67%",
+    "uptimeDay": "78.67%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 593,
     "timeDay": 555,
     "timeWeek": 594,
     "timeMonth": 593,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-02-06": 281,
+      "2023-02-06": 307,
       "2023-02-05": 39
     }
   }
