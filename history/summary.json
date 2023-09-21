@@ -4,7 +4,7 @@
     "url": "https://mirror.albony.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.albony.xyz.ico",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.13%",
@@ -16,6 +16,7 @@
     "timeMonth": 1881,
     "timeYear": 1282,
     "dailyMinutesDown": {
+      "2023-09-21": 0,
       "2023-09-14": 189,
       "2023-09-01": 29,
       "2023-08-28": 46,
